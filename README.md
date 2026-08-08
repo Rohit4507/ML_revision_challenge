@@ -1,2 +1,3 @@
 # ML_revision_challenge
 12 days challenge (hard challenge). It's now or never...
+continue this challenge and becoems expert in this field
